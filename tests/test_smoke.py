@@ -1,3 +1,3 @@
-def test_smoke_passes():
-    """Basic sanity check so pytest has at least one test to collect."""
+def test_smoke():
+    """Basic smoke test so pytest finds at least one test."""
     assert True
